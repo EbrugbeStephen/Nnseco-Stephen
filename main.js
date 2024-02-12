@@ -1,2 +1,2 @@
 alert("welcome to Nnesco");
-alert("people");
+alert("people!");
